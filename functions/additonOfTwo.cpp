@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int addion (int a,int b){
+int addison (int a,int b){
     
     int sum = a + b;
     return sum;
@@ -10,7 +10,7 @@ int addion (int a,int b){
 int main(){
     int x = 20;
     int y = 30;
-    int result = addion (x,y);
+    int result = addison (x,y);
     cout<<result<<endl;
         return 0;
 
